@@ -5,7 +5,7 @@ registry = "test"
 [[package]]
 name = "abdul/zombiefps"
 version = "0.1.0"
-dependencies = [["DataServiceTyped", "leifstout/dataservicetyped@1.0.5"], ["Networker", "leifstout/networker@0.3.1"]]
+dependencies = [["DataServiceTyped", "leifstout/dataservicetyped@1.0.5"]]
 
 [[package]]
 name = "leifstout/dataservicetyped"
