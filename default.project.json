@@ -9,6 +9,12 @@
       },
       "Packages": {
         "$path": "Packages"
+      },
+      "Classes": {
+        "$path": "src/classes"
+      },
+      "Data": {
+        "$path": "src/data"
       }
     },
 
